@@ -1,0 +1,21 @@
+.text-formatter-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.text-formatter-input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.text-formatter-button {
+  padding: 10px 20px;
+  margin-left: 10px;
+  font-size: 16px;
+}
+
+.text-formatter-output {
+  margin-top: 50px;
+  font-size: 20px;
+  color: rgb(21, 255, 0);
+}
